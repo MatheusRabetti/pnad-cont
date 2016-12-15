@@ -11,3 +11,4 @@ Indicadores:
   - Estoque de trabalhadores
   - População desocupada
   - Taxa de participação
+  - Fluxo/Mobilidade no Mercado de Trabalho
